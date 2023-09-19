@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400;1,500&family=Poppins:wght@100;200;300;400&display=swap');
+:root{
+	--f7-theme-color:#5079FE;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #5079FE; /*navbar link*/
+	--f7-navbar-text-color:#7C899F;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+	--color-azul:#2b5970;
+}
+
+	body {
+	font-family: 'Josefin Sans', sans-serif;
+	color:#000;
+}
+
+
+#header{
+	text-align:center;
+	font-weight:400;
+	background-image: url("../img/book.jpg");
+	padding: 50px;
+}
+
+
+
+#panel-menu {
+	background-color: #2b5970;
+	color: #fff;
+	font-weight:400;
+	text-align: left;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#menu-list {
+	font-weight:400;
+	background-color: #2b5970;
+	color: #fff;
+	text-align: left;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#menu-list img{
+	border-radius: 100px;
+	
+}
+
+.material-icons{
+	color:#fffbd5;
+	margin:0px 5px;
+}
+
+.material-symbols-outlined{
+	color:#fffbd5;
+	margin:0px 5px;
+}
+
+.menu{
+	color:#2b5970;
+}
+
+.nav-bar-title{
+	font-size: 30px;
+	font-weight:400;
+	color:#2b5970;
+}
+
+p{
+	font-size:20px;
+}
+h4{
+	font-size:20px;
+}
+
+h2{
+	margin-left: 10px;
+}
+
+h3{
+	margin-left: 10px;
+}
+
+
+.center{
+text-align: center;	
+	
+}
+
+a{
+	text-decoration: none;
+	color:#2b5970;
+}
+
+.btn-product{
+	padding: 20px;
+	border-radius: 10px;
+	font-size: 17px;
+	color:#2b5970;
+}
+
+
+.precio{
+	color: #2b5970;
+}
+.interesar{
+	color:#2b5970;
+}
